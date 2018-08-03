@@ -1,0 +1,1 @@
+scr_ru_alert("You Pressed A!", "Key Press Event");

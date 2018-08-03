@@ -1,0 +1,1 @@
+scr_ru_alert("This is Room 1!");

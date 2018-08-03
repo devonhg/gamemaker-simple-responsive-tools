@@ -1,0 +1,1 @@
+scr_ru_init_camera(0,0,200,480, 2);
