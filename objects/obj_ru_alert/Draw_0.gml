@@ -1,11 +1,11 @@
 draw_set_color(c_white);
 draw_set_halign( fa_center );
 draw_set_valign( fa_middle );
-
+	
 	//Draw Base Box
 		draw_rectangle( responsive_x(.5), responsive_y( 4 ), responsive_x( 11.5 ), responsive_y(4)+100, false );
 
-	//Set up a breakpoint
+	//Set up a breakpoint 
 		var _bp = 0;
 		if( camera_get_view_width(view_camera[view_current]) < 300 ){
 			_bp = -.1; 

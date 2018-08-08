@@ -6,7 +6,6 @@
 ///@param width The width in pixels to restrain the text to
 ///@param color The color of the text
 
-var _width = camera_get_view_width(view_camera[view_current]);
 var _str_height = string_height(argument[2]);
 var _scale = argument[3]/_str_height;
 var _sep = _str_height;
